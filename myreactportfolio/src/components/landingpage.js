@@ -32,9 +32,6 @@ class LandingPage extends Component {
                                 <a href="hht://www.google.com" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-youtube-square" aria-hidden="true"> </i>
                                 </a>
-                                <a href="hht://www.google.com" rel="noopener noreferrer" target="_blank">
-                                    <i class="fa fa-instagram-square" aria-hidden="true"> </i>
-                                </a>
                             </div>
                         </div>
                     </Cell>
