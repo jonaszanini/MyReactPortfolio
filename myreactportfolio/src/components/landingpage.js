@@ -20,17 +20,17 @@ class LandingPage extends Component {
 
                             <hr />
 
-                            <p> HTML/CSS | Bootstrap | JavaScript | React | React Native | NodeJS | Express | MongoDB</p>
+                            <p> C# .NET | API REST | Unit test | SQL | Angular | HTML/CSS | JavaScript | GitHub | Agile</p>
 
                             <div className="social-links">
-                                <a href="hht://www.google.com" rel="noopener noreferrer" target="_blank">
+                                <a href="https://www.linkedin.com/in/jonaszanini/" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-linkedin-square" aria-hidden="true"> </i>
                                 </a>
-                                <a href="hht://www.google.com" rel="noopener noreferrer" target="_blank">
+                                <a href="https://github.com/jonaszanini" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-github-square" aria-hidden="true"> </i>
                                 </a>
-                                <a href="hht://www.google.com" rel="noopener noreferrer" target="_blank">
-                                    <i className="fa fa-youtube-square" aria-hidden="true"> </i>
+                                <a href="http://jonaszanini.com/" rel="noopener noreferrer" target="_blank">
+                                    <i class="fas fa-user-tie" aria-hidden="true"></i>
                                 </a>
                             </div>
                         </div>
